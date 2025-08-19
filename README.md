@@ -9,7 +9,7 @@ The model classifies reviews as **Positive** or **Negative**.
 - Interactive **Streamlit Web App** for real-time predictions.
 - Dashboard with input text, prediction result, and confidence score.
 
-## ⚙️ Installation
+## Installation
 
 Clone this repository:
 
