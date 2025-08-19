@@ -34,5 +34,6 @@ Then open http://localhost:8501/
 - View confidence score
 - Visualize overall positive vs negative review distribution
 
-## Dashboard-
-https://shruti629-simple-rnn-movie-review-main-xby1ap.streamlit.app/
+## Dashboard
+![Dashboard Screenshot](https://github.com/shruti629/simple-rnn-movie-review/blob/1b4f6cb55d0ef82882798628cf12bf67cd794a90/Streamlit%20-%20Google%20Chrome%208_19_2025%209_28_33%20AM.png)
+
